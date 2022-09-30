@@ -1,0 +1,27 @@
+<html>
+	<body>
+		<center><table border="4" cellpadding="15" cellspacing="5"></center>
+		<tr>
+		<th><h1>Nama</th>
+		<th><h1>Alamat</th>
+		</tr>
+		<tr>
+		<th>Uciha Ithaci</th>
+		<th>KONOHAGAKURE</th>
+		</tr>
+		<tr>
+		<th>Kisame</th>
+		<th>AMEGAKURE</th>
+		</tr>
+		<tr>
+		<th>Deidara</th>
+		<th>IWAGAKURE</th>
+		</tr>
+		<tr>
+		<th>Sasori</th>
+		<th>SUNAGAKURE</th>
+		</tr>
+		</table>
+		<a href="HAL_1"><font color="blue"><u>Kembali Ke Halaman Utama</u></font></a href>
+	</body>
+</html>

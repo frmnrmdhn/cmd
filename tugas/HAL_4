@@ -1,0 +1,27 @@
+<html>
+	<body>
+		<center><table border="4" cellpadding="15" cellspacing="5"></center>
+		<tr>
+		<th><h1>MISI</th>
+		<th><h1>Patner</th>
+		</tr>
+		<tr>
+		<th>Mengambil Jinchuriki</th>
+		<th>Kisame</th>
+		</tr>
+		<tr>
+		<th>Mengambil Jinchuriki</th>
+		<th>Itachi</th>
+		</tr>
+		<tr>
+		<th>Melawan Sasuke</th>
+		<th>Sasori</th>
+		</tr>
+		<tr>
+		<th>Melawan Gaara</th>
+		<th>Deidara</th>
+		</tr>
+		</table>
+		<a href="HAL_1"><font color="blue"><u>Kembali Ke Halaman Utama</u></font></a href>
+	</body>
+</html>

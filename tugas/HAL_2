@@ -1,0 +1,27 @@
+<html>
+	<body>
+		<center><table border="4" cellpadding="15" cellspacing="5"></center>
+		<tr>
+		<th><h1>Jutsu</th>
+		<th><h1>Pangkat</th>
+		</tr>
+		<tr>
+		<th>Amaterasu</th>
+		<th>Jounin</th>
+		</tr>
+		<tr>
+		<th>Suijinchu</th>
+		<th>Jounin</th>
+		</tr>
+		<tr>
+		<th>Nendo Bunshin</th>
+		<th>Jounin</th>
+		</tr>
+		<tr>
+		<th>Chakura no ito</th>
+		<th>Jounin</th>
+		</tr>
+		</table>
+		<a href="HAL_1"><font color="blue"><u>Kembali Ke Halaman Utama</u></font></a href>
+	</body>
+</html>

@@ -1,0 +1,14 @@
+<html>
+	<head>
+	<title>Website Utama</title>
+	</head>
+	<body background="itachi.jpg">
+	<h1 align="center"> Web AKATSUKI</h1>
+	<hr>
+	<center>
+	<a href="HAL_3"><font color="blue"><u>HAL Nama & Alamat Anggota</u></font></a href><br><br>
+	<a href="HAL_2"><font color="blue"><u>HAL Jurus & Pangkat</u></font></a href><br><br>
+	<a href="HAL_4"><font color="blue"><u>HAl Misi & Patner</u></font></a href>
+	</center>
+	</body>
+</html>
